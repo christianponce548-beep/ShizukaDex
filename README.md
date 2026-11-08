@@ -1,4 +1,4 @@
-# ✦ Hello, I'm Shizukadex
+# ✦ Hello, I'm Allen
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:123B32,100:00C896&height=230&section=header&text=Allen&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Student%20%7C%20Creator&descAlignY=58&descSize=17" width="100%" />
@@ -50,18 +50,37 @@ I enjoy exploring new technologies, developing creative projects, and continuous
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shizukadex&show_icons=true&theme=transparent&hide_border=true&title_color=00C896&icon_color=00C896&text_color=ffffff&bg_color=050816" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shizukadex&layout=compact&theme=transparent&hide_border=true&title_color=00C896&text_color=ffffff&bg_color=050816" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00C896&icon_color=00C896&text_color=ffffff&bg_color=050816" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00C896&text_color=ffffff&bg_color=050816" />
 </p>
 
 ## 🟢 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shizukadex&bg_color=050816&color=00C896&line=00C896&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050816&color=00C896&line=00C896&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
-## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=ffffff&dates=888888&background=050816" width="100%" />
+</p>
+
+---
+
+## 📬 Let's Connect
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shizukadex&theme=transparent&hide_border=true&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=ffffff&dates=888888&background=050816" width="100%" />
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-00C896?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"The best way to learn is to build something."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:123B32,100:050816&height=110&section=footer" width="100%" />
 </p>
