@@ -1,86 +1,117 @@
-# ✦ Hello, I'm Allen
+<!---->
+
+<h1 align="center">Hi 👋, I'm Shizukadex</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:123B32,100:00C896&height=230&section=header&text=Allen&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Student%20%7C%20Creator&descAlignY=58&descSize=17" width="100%" />
+  <strong><em>✏️ A sentence about you and what you do.</em></strong>
 </p>
 
-<h3 align="center">Building ideas into reality, one line of code at a time.</h3>
-
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Learning-00C896?style=for-the-badge" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-Hi! I'm Allen, a student and aspiring developer passionate about technology, programming, and creating things on the web.
-
-I enjoy exploring new technologies, developing creative projects, and continuously improving my coding skills.
-
-- 💻 Interested in web development and programming.
-- 🌱 Currently improving my development skills.
-- 🚀 Always experimenting with new ideas.
-- 🎯 Goal: Build useful, creative, and meaningful projects.
-
----
-
-## ⚡ Technologies & Skills
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
+  <em>✏️ A sentence about you and what you do.</em>
+  <em>✏️ A sentence about you and what you do.</em>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 About Me
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianponce548-beep&show_icons=true&theme=transparent&hide_border=true&title_color=00C896&icon_color=00C896&text_color=ffffff&bg_color=050816" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianponce548-beep&layout=compact&theme=transparent&hide_border=true&title_color=00C896&text_color=ffffff&bg_color=050816" />
+- <em>✏️ A sentence about you and what you do.</em>
+- <em>✏️ A sentence about you and what you do.</em>
+- <em>✏️ A sentence about you and what you do.</em>
+- <em>✏️ A sentence about you and what you do.</em>
+
+---
+
+## 🧠 Featured Projects
+
+### 💳 RupeeWave — Banking Backend
+
+<em>✏️ Say this in your own words.</em>
+
+#### Highlights
+
+- <em>✏️ Say this in your own words.</em>
+- <em>✏️ Say this in your own words.</em>
+- <em>✏️ Say this in your own words.</em>
+- <em>✏️ Say this in your own words.</em>
+- PostgreSQL + Supabase migrations
+- <em>✏️ Say this in your own words.</em>
+
+🔗 **Live:** https://rupeewave.vercel.app
+
+📂 **Repository:** https://github.com/christianponce548-beep?tab=repositories
+
+---
+
+### 🏍️ PillionPal — Ride-Sharing Backend
+
+<em>✏️ Say this in your own words.</em>
+
+#### Highlights
+
+- <em>✏️ Say this in your own words.</em>
+- <em>✏️ Say this in your own words.</em>
+- <em>✏️ Say this in your own words.</em>
+- PostgreSQL-powered backend
+- Structured API architecture
+
+🔗 **Live:** https://pillionpal-api.onrender.com
+
+📂 **Repository:** https://github.com/christianponce548-beep?tab=repositories
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,c" />
 </p>
 
-## 🟢 Contribution Activity
+### Backend
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianponce548-beep&bg_color=050816&color=00C896&line=00C896&point=ffffff&area=true&hide_border=true" width="100%" />
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=christianponce548-beep&theme=transparent&hide_border=true&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=ffffff&dates=888888&background=050816" width="100%" />
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+</p>
+
+### Tools & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode" />
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-00C896?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img height="170" src="https://www.gitskins.com/api/section/stats?username=christianponce548-beep&theme=github-dark&mode=dark" />
+  <img height="170" src="https://www.gitskins.com/api/section/stack?username=christianponce548-beep&theme=github-dark&mode=dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-handle/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:you@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 <p align="center">
-  <i>"The best way to learn is to build something."</i>
+  <em>✏️ A sentence about you and what you do.</em>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:123B32,100:050816&height=110&section=footer" width="100%" />
-</p>
+<p align="center"><sub>Shizukadex · <a href="https://www.gitskins.com/readme-generator?template=community-sri-charan-machabhakthuni-eeip">Sri Charan Machabhakthuni</a> template by <a href="https://www.gitskins.com/creators/SreeCharan153">@SreeCharan153</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
