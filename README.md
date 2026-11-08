@@ -50,18 +50,18 @@ I enjoy exploring new technologies, developing creative projects, and continuous
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00C896&icon_color=00C896&text_color=ffffff&bg_color=050816" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00C896&text_color=ffffff&bg_color=050816" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianponce548-beep&show_icons=true&theme=transparent&hide_border=true&title_color=00C896&icon_color=00C896&text_color=ffffff&bg_color=050816" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianponce548-beep&layout=compact&theme=transparent&hide_border=true&title_color=00C896&text_color=ffffff&bg_color=050816" />
 </p>
 
 ## 🟢 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050816&color=00C896&line=00C896&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianponce548-beep&bg_color=050816&color=00C896&line=00C896&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=ffffff&dates=888888&background=050816" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=christianponce548-beep&theme=transparent&hide_border=true&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=ffffff&dates=888888&background=050816" width="100%" />
 </p>
 
 ---
